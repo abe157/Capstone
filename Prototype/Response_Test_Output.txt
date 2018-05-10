@@ -1,0 +1,146 @@
+===	Response verification task	===
+===	Note: Times are presented on a 24-hour clock	===
+===	Threshold value will be: 3.57406308	===
+===	There should be no audio for the next 1 minutes and 54
+===	First portion of this test starting at:	01 hours, 30 minutes, and 59 seconds, of Wednesday, May 09, 2018	===
+TBR is: 1.24872636
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 3.04936478
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 3.39392676
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 1.46895557
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 1.69324143
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 2.30858033
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 1.38490709
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 3.45573910
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 3.46495431
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 3.39090781
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 2.76835528
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+TBR is: 3.42543824
+Threshold is: 3.57406308
+===	Audio Playing? [NO][FALSE]	===
+
+===	Test 1 finished at: 	01 hours, 32 minutes, and 59 seconds, of Wednesday, May 09, 2018	===
+===	Test 1 generated 12 sample points.	===
+===	Test 1 [SUCCESSFUL] points: 12
+===	Test 1 [FAILURE] points: 0
+===	Cleaning up for second test:	===
+===	Threshold value is still: 3.57406308	===
+===	There should be audio for the next 4 minutes and 34
+===	Second portion of this test starting at:	01 hours, 32 minutes, and 59 seconds, of Wednesday, May 09, 2018	===
+TBR is: 6.02132911
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 18.14136924
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 20.46060497
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 7.50368497
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 9.01334596
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 13.15517261
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 6.93795732
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 20.87666189
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 20.93868915
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 20.44028452
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 16.24990317
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 20.67270771
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 5.57752085
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 17.50199481
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 8.82037659
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 3.75694143
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 5.62261619
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 14.75856265
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 18.89369703
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 12.40049086
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 17.49892393
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 9.93382016
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 7.34585070
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 15.47925547
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 10.58258152
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 16.50647052
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 11.89970203
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+TBR is: 10.98712762
+Threshold is: 3.57406308
+===	Audio Playing? [YES][TRUE]	===
+
+===	Test 2 finished at: 	01 hours, 37 minutes, and 39 seconds, of Wednesday, May 09, 2018	===
+===	Test 2 generated 28 sample points.	===
+===	Test 2 [SUCCESSFUL] points: 28
+===	Test 2 [FAILURE] points: 0
+
+===	All tests complete.	===
+===	Tests generated 40 sample points.	===
+===	Tests [SUCCESSFUL] points: 40
+===	Tests [FAILURE] points: 0
+
+===	Terminiating program at: : 	01 hours, 37 minutes, and 39 seconds, of Wednesday, May 09, 2018	===

@@ -1,0 +1,8 @@
+﻿  SDLApp.cpp
+c:\program files (x86)\attention keeper\attention keeper\prototype\sdlapp.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Plot.cpp
+c:\program files (x86)\attention keeper\attention keeper\prototype\plot.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+c:\program files (x86)\attention keeper\attention keeper\prototype\main.cpp(24): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Stimulation.cpp
+  Generating Code...
